@@ -77,6 +77,7 @@
     { "ts": "2026-07-20T15:17Z", "price_per_day": 40, "total_3day": 120, "source": "kayak-intermediate", "below_avg": false },
     { "ts": "2026-07-20T18:17Z", "price_per_day": 40, "total_3day": 120, "source": "kayak-intermediate", "below_avg": false },
     { "ts": "2026-07-20T21:17Z", "price_per_day": 40, "total_3day": 120, "source": "kayak-intermediate", "below_avg": false },
-    { "ts": "2026-07-21T00:17Z", "price_per_day": 40, "total_3day": 120, "source": "kayak-intermediate", "below_avg": false }
+    { "ts": "2026-07-21T00:17Z", "price_per_day": 40, "total_3day": 120, "source": "kayak-intermediate", "below_avg": false },
+    { "ts": "2026-07-21T03:17Z", "price_per_day": 40, "total_3day": 120, "source": "kayak-intermediate", "below_avg": false }
   ]
 }
