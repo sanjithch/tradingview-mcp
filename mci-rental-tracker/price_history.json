@@ -88,6 +88,7 @@
     { "ts": "2026-07-22T00:17Z", "price_per_day": 40, "total_3day": 120, "source": "sedan-range-floor", "below_avg": false },
     { "ts": "2026-07-22T03:17Z", "price_per_day": 47, "total_3day": 141, "source": "expedia-midsize-corolla", "below_avg": false, "note": "range $26-$49; $26 floor already alerted 07-21" },
     { "ts": "2026-07-22T06:17Z", "price_per_day": 42, "total_3day": 126, "source": "kayak-dollar-intermediate", "below_avg": false },
-    { "ts": "2026-07-22T09:17Z", "price_per_day": 49, "total_3day": 147, "source": "kayak-budget-intermediate", "below_avg": false }
+    { "ts": "2026-07-22T09:17Z", "price_per_day": 49, "total_3day": 147, "source": "kayak-budget-intermediate", "below_avg": false },
+    { "ts": "2026-07-22T12:17Z", "price_per_day": 47, "total_3day": 141, "source": "expedia-midsize-corolla", "below_avg": false, "note": "$26 Kia Niro floor unchanged, already alerted 07-21" }
   ]
 }
