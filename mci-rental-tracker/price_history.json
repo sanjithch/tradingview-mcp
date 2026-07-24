@@ -100,6 +100,7 @@
     { "ts": "2026-07-23T12:17Z", "price_per_day": 42, "total_3day": 126, "source": "kayak-dollar-intermediate", "below_avg": false },
     { "ts": "2026-07-23T15:17Z", "price_per_day": 47, "total_3day": 141, "source": "expedia-midsize-corolla", "below_avg": false },
     { "ts": "2026-07-23T18:17Z", "price_per_day": 42, "total_3day": 126, "source": "kayak-dollar-intermediate", "below_avg": false },
-    { "ts": "2026-07-23T21:17Z", "price_per_day": 49, "total_3day": 147, "source": "kayak-budget-intermediate", "below_avg": false }
+    { "ts": "2026-07-23T21:17Z", "price_per_day": 49, "total_3day": 147, "source": "kayak-budget-intermediate", "below_avg": false },
+    { "ts": "2026-07-24T00:17Z", "price_per_day": 40, "total_3day": 120, "source": "sedan-range-floor", "below_avg": true, "note": "marginal: $40 vs running avg $40.79; = long-run baseline, not a new low" }
   ]
 }
